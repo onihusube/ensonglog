@@ -12,11 +12,20 @@ theme:
   name: 'material'
   language: 'ja'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
-  font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    - scheme: default
+      primary: 'teal'
+      accent: 'pink'
+      toggle:
+        icon:  material/toggle-switch-off-outline
+        name: ダークモードに切り替えます。
+    - scheme: slate
+      primary: 'teal'
+      accent: 'orange'
+      toggle:
+        icon: material/toggle-switch
+        name: ライトモードに切り替えます。
+  features:
+    - header.autohide
 
 extra:
   search:
