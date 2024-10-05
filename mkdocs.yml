@@ -1,0 +1,37 @@
+site_name: エロゲ・ノベルゲームの関連曲のメモ
+
+repo_name: onihusube/ensonglog
+repo_url: https://github.com/onihusube/ensonglog
+edit_uri: ""
+
+nav:
+    - 🏡トップページ : index.md
+    - 2024年 : 2024/楽曲.md
+
+theme:
+  name: 'material'
+  language: 'ja'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+extra:
+  search:
+    language: 'jp'
+
+markdown_extensions:
+  - tables
+  - admonition
+  - footnotes
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:  
+      custom_checkbox: true
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
