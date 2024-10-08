@@ -6,7 +6,7 @@
 
 ## 情報の追記・修正に関して
 
-GithubのIssue/Pull Requestからお願いします（アカウントが必要です）。
+[Github](https://github.com/onihusube/ensonglog)のIssue/Pull Requestからお願いします（アカウントが必要です）。
 
 ## 予定リスト
 
