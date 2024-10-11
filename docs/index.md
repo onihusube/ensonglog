@@ -8,7 +8,7 @@
 
 [Github](https://github.com/onihusube/ensonglog)のIssue/Pull Requestからお願いします（アカウントが必要です）。
 
-## 予定リスト
+## 作業予定
 
 - 2023年以前のリストの作成
 - 音源リストの作成
