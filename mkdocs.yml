@@ -6,7 +6,10 @@ edit_uri: ""
 
 nav:
     - 🏡トップページ : index.md
-    - 2024年 : 2024/楽曲.md
+    - 楽曲:
+      - 2024年 : 2024/楽曲.md
+    - 音源:
+      - 2024年 : 2024/音源.md
 
 theme:
   name: 'material'
@@ -26,6 +29,8 @@ theme:
         name: ライトモードに切り替えます。
   features:
     - header.autohide
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 plugins:
   - search:
