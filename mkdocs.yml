@@ -10,6 +10,12 @@ nav:
       - 2024年 : 2024/楽曲.md
     - 音源:
       - 2024年 : 2024/音源.md
+      - 2023年 : 2023/音源.md
+      - 2022年 : 2022/音源.md
+      - 2021年 : 2021/音源.md
+      - 2020年 : 2020/音源.md
+      - 2019年 : 2019/音源.md
+      - 2018年 : 2018/音源.md
 
 theme:
   name: 'material'
@@ -31,6 +37,8 @@ theme:
     - header.autohide
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.footer
+    - navigation.path
 
 plugins:
   - search:
