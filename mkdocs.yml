@@ -38,7 +38,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
-    - navigation.path
+    - navigation.top
 
 plugins:
   - search:
