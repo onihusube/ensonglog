@@ -4,10 +4,10 @@
 
 | トラック | 曲名 | ボーカル | 種別 | 作詞 | 作曲 | 編曲 | 再生時間 | その他 |
 |---|---|---|---|---|---|---|---|---|
-| 01 | Criminal Gradation | 橋本みゆき | OP | 石川泰 | 山口たこ(TAKU) | 山口たこ(TAKU) | 04:09 | クリミナルボーダー 1st offence OP |
-| 02 | 隠恋情 | 浅葉リオ | OP | 石川泰 | 山口たこ(TAKU) | 山口たこ(TAKU) | 03:38 | クリミナルボーダー 2nd offence OP |
-| 03 | 花よ散り逝け 人も散るなり | 山崎もえ | OP | 石川泰 | 山口たこ(TAKU) | 山口たこ(TAKU) | 03:50 | クリミナルボーダー 3rd offence OP |
-| 04 | Life Initialization | 橋本みゆき | OP | 石川泰 | 山口たこ(Crearts) | 山口たこ(Crearts) | 04:25 | クリミナルボーダー life sentence OP | 
+| 01 | Criminal Gradation | 橋本みゆき | OP | 石川泰 | 山口たこ | 山口たこ | 04:09 | クリミナルボーダー 1st offence OP |
+| 02 | 隠恋情 | 浅葉リオ | OP | 石川泰 | 山口たこ | 山口たこ | 03:38 | クリミナルボーダー 2nd offence OP |
+| 03 | 花よ散り逝け 人も散るなり | 山崎もえ | OP | 石川泰 | 山口たこ | 山口たこ | 03:50 | クリミナルボーダー 3rd offence OP |
+| 04 | Life Initialization | 橋本みゆき | OP | 石川泰 | 山口たこ | 山口たこ | 04:25 | クリミナルボーダー life sentence OP | 
 | 05 | Criminal rootage |  | BGM |  |  |  | 02:31 |  |
 | 06 | Re;little mischief |  | BGM |  |  |  | 01:57 |  |
 | 07 | Ideal for dawn |  | BGM |  |  |  | 01:57 |  |
