@@ -20,7 +20,7 @@
 
 - project lights 提供楽曲のカバーアルバム
 - 購入先
-   - [BOOTH](https://project-lights.booth.pm/items/5156450)
+    - [BOOTH](https://project-lights.booth.pm/items/5156450)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=nH_mkO_-bqA)
 - メディア : CD
 - 発売日 : 2024/10/27
