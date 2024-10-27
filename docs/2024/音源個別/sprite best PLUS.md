@@ -2,10 +2,6 @@
 
 ## 収録曲
 
-## ディスク1とディスク2に分けた表
-
-ソースのトラックリストに基づいて、ディスク1とディスク2で表を分けてみました。 
-
 ### DISC 01 Phase:ROCK
 
 | トラック | 曲名 | ボーカル | 作品 | 種別 | 作詞 | 作曲 | 編曲 | その他 | 年 |
@@ -40,7 +36,7 @@
 
 ## その他
 
-- HP : https://spriterecordings.upper.jp/spritebestplus/
+- HP : [https://spriterecordings.upper.jp/spritebestplus/](https://spriterecordings.upper.jp/spritebestplus/)
 - 購入先
     - [Booth](https://signumiisprite.booth.pm/)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=9yIRZ-tZaKU)
