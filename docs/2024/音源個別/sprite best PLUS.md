@@ -17,6 +17,7 @@
 | 09 | Air | 片霧烈火 | LAMUNATION! -ラムネーション!- | ED |  |  |  |  | 2016 |
 | 10 | HEARTBEAT | あひる | LOVEPOTION SIXTYNINE | OP |  |  |  |  | 2013 |
 | 11 | Rise Again | あひる & KTA |  |  |  |  |  |  |  |
+| 12 |  |  |  |  |  |  |  | CD版のみのボーナストラック |  |
 
 ### DISC 02 Phase:Electronic
 
@@ -25,7 +26,7 @@
 | 01 | Snowflakes | nao |  |  |  |  |  |  |  |
 | 02 | N.O.S (Sprite Recordings Ver.) | あひる | LAMUNATION! -ラムネーション!- | OP |  |  |  |  | 2016 |
 | 03 | Light the World | nao | LAMUNATION! -ラムネーション!- | 挿入歌 |  |  |  |  | 2016 |
-| 04 | Ordinary World (ft.XIO) | 仲村芽衣子 |  |  |  |  |  |  |  |
+| 04 | Ordinary World (ft.XIO) | 仲村芽衣子 |  |  | 仲村芽衣子 |  |  |  |  |
 | 05 | Auto code no hit tea, psy tie. | Fumihisa Tanaka |  |  |  |  |  |  |  |
 | 06 | スターチス (XIO Remix) | cittan* feat. 結月そら |  |  | cittan* |  |  |  |  |
 | 07 | Runway (hu-zin Remix) |  |  |  |  |  |  |  |  |
@@ -39,6 +40,7 @@
 - HP : [https://spriterecordings.upper.jp/spritebestplus/](https://spriterecordings.upper.jp/spritebestplus/)
 - 購入先
     - [Booth](https://signumiisprite.booth.pm/)
+    - [LinkCore](https://linkco.re/e7mPduMx)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=9yIRZ-tZaKU)
 - メディア : CD/DL
 - 発売日 : 2024/10/27
