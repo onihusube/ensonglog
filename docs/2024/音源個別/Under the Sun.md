@@ -24,8 +24,10 @@
 ## その他
 
 - Marica@Funczion SOUNDS ワークスベストアルバム
+- 購入先
+    - [BOOTH](url)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=MgXK2k56VSw)
 - メディア : CD
 - 発売日
     - M3秋 : 2024/10/27
-    - 一般 : 2024
+    - 一般 : 2024/11/7
