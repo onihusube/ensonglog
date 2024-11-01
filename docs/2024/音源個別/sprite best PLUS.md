@@ -43,4 +43,6 @@
     - [LinkCore](https://linkco.re/e7mPduMx)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=9yIRZ-tZaKU)
 - メディア : CD/DL
-- 発売日 : 2024/10/27
+- 発売日
+    - CD : 2024/10/27
+    - DL : 2024/10/29
