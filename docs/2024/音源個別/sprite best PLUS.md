@@ -17,7 +17,7 @@
 | 09 | Air | 片霧烈火 | LAMUNATION! -ラムネーション!- | ED |  |  |  |  | 2016 |
 | 10 | HEARTBEAT | あひる | LOVEPOTION SIXTYNINE | OP |  |  |  |  | 2013 |
 | 11 | Rise Again | あひる & KTA |  |  |  |  |  |  |  |
-| 12 |  |  |  |  |  |  |  | CD版のみのボーナストラック |  |
+| 12 | spherelight |  |  |  |  |  |  | CD版のみのボーナストラック |  |
 
 ### DISC 02 Phase:Electronic
 
