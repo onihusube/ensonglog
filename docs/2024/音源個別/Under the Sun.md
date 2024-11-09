@@ -24,8 +24,6 @@
 ## その他
 
 - Marica@Funczion SOUNDS ワークスベストアルバム
-- 購入先
-    - [BOOTH](url)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=MgXK2k56VSw)
 - メディア : CD
 - 発売日
