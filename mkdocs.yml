@@ -3,6 +3,7 @@ site_name: エロゲ・ノベルゲームの関連曲のメモ
 repo_name: onihusube/ensonglog
 repo_url: https://github.com/onihusube/ensonglog
 edit_uri: ""
+site_url: https://onihusube.github.io/ensonglog/
 
 nav:
     - 🏡トップページ : index.md
