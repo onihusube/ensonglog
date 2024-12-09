@@ -31,6 +31,8 @@ jobs:
 
       - name: Commit changes
         run: |
+          git config user.name  "GitHub Action"
+          git config user.email "action@github.com"
           git add google290e6b23c164f08d.html
           git commit -m "Add google290e6b23c164f08d.html from master branch"
       
