@@ -28,7 +28,6 @@ jobs:
       - name: Copy file from master branch
         run: |
           git checkout master -- google290e6b23c164f08d.html
-          mv google290e6b23c164f08d.html ./
 
       - name: Commit changes
         run: |
