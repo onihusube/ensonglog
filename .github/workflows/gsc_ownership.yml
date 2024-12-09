@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # 完全な履歴を取得（ブランチ間切り替えのため）
+          token: ${{ secrets.WORKFLOW_TOKEN }}
 
       - name: Fetch gh-pages branch
         run: git fetch origin gh-pages
