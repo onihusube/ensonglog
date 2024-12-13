@@ -22,14 +22,12 @@
 
 ## その他
 
-- HP : http://symphonysounds.net/ssreq3/
+- HP : [http://symphonysounds.net/ssreq3/](http://symphonysounds.net/ssreq3/)
 - 購入先
-     - [BOOTH](https://booth.pm/ja/items/4466270)
+     - [BOOTH 通常版](https://symphonysounds.booth.pm/items/6375969)
+     - [BOOTH 限定版](https://symphonysounds.booth.pm/items/6376149)
 - 視聴 : 
 - メディア : CD
 - 発売日
     - C105: 2024/12/29
     - 一般: 2025/01/31
-
-
-各楽曲の発売年はソースに記載がありません。の情報から発売年を補完しました。ご確認ください。
