@@ -21,6 +21,5 @@
     - [HP](http://hashimotomiyuki.com/archives/news/1519.html)
 - 購入先
     - [Linkfire](https://miyukihashimoto.lnk.to/RS_CandyPop)
-    - [mora](https://mora.jp/package/43000188/EAXX00387B00Z/)
-- メディア : CD
+- メディア : CD/DL
 - 発売日 : 2024/12/14 
