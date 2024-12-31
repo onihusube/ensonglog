@@ -11,8 +11,8 @@
 | 05 | get out |  |  |  |  |  |  | 2024 |
 | 06 | “S”pecial Love（solo ver.） | MOONSTONE Cherry「夕凪荘のＳ級の彼女たち2」 | 主題歌 |  |  |  |  | 2023 |
 | 07 | にゃんだふるdays | Whirlpool「猫忍えくすはーとSPIN!」 | OP | 天ヶ咲麗 | 橋咲透 | 橋咲透 |  | 2023 |
-| 08 | Dancefloor Dreaming |  |  |  |  |  |  | コンピレーションアルバム「Emotion Theory」 | 2023 |
-| 09 | サタデー is ナイト of フィーバー |  |  |  |  |  |  | 15周年記念アルバム「Anniversary」 | 2021 |
+| 08 | Dancefloor Dreaming |  |  |  |  |  | コンピレーションアルバム「Emotion Theory」 | 2023 |
+| 09 | サタデー is ナイト of フィーバー |  |  |  |  |  | 15周年記念アルバム「Anniversary」 | 2021 |
 | 10 | Special Everyday（solo ver.） | MOONSTONE Cherry「夕凪荘のＳ級の彼女たち」 | OP | 天ヶ咲麗 | 橋咲透 | 橋咲透 |  | 2022 |
 
 ## その他
