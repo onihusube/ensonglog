@@ -26,7 +26,7 @@
 - 購入先
      - [BOOTH 通常版](https://symphonysounds.booth.pm/items/6375969)
      - [BOOTH 限定版](https://symphonysounds.booth.pm/items/6376149)
-- 視聴 : 
+- 視聴 : [Youtube](https://www.youtube.com/watch?v=oW-Mbs4ZriQ)
 - メディア : CD
 - 発売日
     - C105: 2024/12/29
