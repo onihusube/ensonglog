@@ -25,7 +25,7 @@
 ## その他
 
 - 購入先
-    - [BOOTH](https://booth.pm/ja/items/4719402)
+    - [BOOTH](https://project-lights.booth.pm/items/6277738)
 - メディア : CD
 - 発売日
     - イベント先行: 2024/12/26
