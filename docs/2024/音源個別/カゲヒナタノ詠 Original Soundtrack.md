@@ -32,7 +32,9 @@
 - 作品/ブランド : カゲヒナタノ詠 / ゆうやけフォカマイユ
 - 購入先
     - [BOOTH（DL）](https://fauxcamaieu.booth.pm/items/6449875)
-- 視聴 : [twitter](https://x.com/ss_fauxcamaieu/status/1871507251854561522)
+- 視聴
+    - [twitter](https://x.com/ss_fauxcamaieu/status/1871507251854561522)
+    - [Youtube](https://www.youtube.com/watch?v=2vYVmTRxycA)
 - メディア : CD/DL
 - 発売日
     - CD: 2024/12/30
