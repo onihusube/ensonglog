@@ -57,6 +57,8 @@ markdown_extensions:
   - tables
   - admonition
   - footnotes
+  - attr_list
+  - md_in_html
   - toc:
       permalink: true
   - pymdownx.tasklist:  

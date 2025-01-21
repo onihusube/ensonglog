@@ -4,6 +4,27 @@
 
 掲載されている情報はgitで管理されてGithub上にあり、markdownの表という人間にも機械にも比較的扱いやすい形式で保存しています。リポジトリへのリンクはページ右上にあります。
 
+## おすすめ
+
+!!!info "01/27まで"
+    **「オトメ世界の歩き方」オリジナルサウンドトラック**
+    <div class="grid cards" markdown>
+        [![「オトメ世界の歩き方」オリジナルサウンドトラック](https://booth.pximg.net/c5b0f380-1d1c-40d6-8d00-e57c7eb93fde/i/6439872/939dd3d3-ca43-4911-b2d9-ae78ec7ad09d.png)](https://booth.pm/ja/items/6439872)
+         
+    </div>
+
+!!!info "02/24頃まで？"
+    **終わりの鐘が鳴る前に ボーカルアルバムセット**
+    <div class="grid cards" markdown>
+        [![ボーカルアルバム+イラスト&設定資料集](https://booth.pximg.net/93126859-441c-464a-ad48-403ae9955b6d/i/6498554/9760063a-514a-4a39-8421-e3d7a3cbf924.png)](https://cynicalhoney.booth.pm/items/6498554)
+        [![終わりの鐘が鳴る前に Cahpter.3 + ボーカルアルバムセット](https://booth.pximg.net/93126859-441c-464a-ad48-403ae9955b6d/i/6498575/17411eab-980a-45e8-930c-f8c6cc9c614e.png)](https://cynicalhoney.booth.pm/items/6498575)
+        [![C105新刊セット](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045297.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2764442)
+        [![終わりの鐘が鳴る前に Cahpter.3 + ボーカルアルバムセット](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045298.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2764441)
+    </div>
+
+- 商品画像はそれぞれのリンク先からの引用です
+- このPRは勝手にやっているものです（アフィリエイトとかではないです）
+
 ## 情報の追記・修正に関して
 
 [Github](https://github.com/onihusube/ensonglog)のIssue/Pull Requestからお願いします（アカウントが必要です）。
