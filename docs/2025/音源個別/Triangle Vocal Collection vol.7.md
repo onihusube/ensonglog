@@ -17,6 +17,7 @@
 
 - HP : [https://www.route2.co.jp/Triangle/Products/VC7/index.html](https://www.route2.co.jp/Triangle/Products/VC7/index.html)
 - メディア : CD
+- 購入: [公式通販](https://e-mart.jp/route2/products/detail/25)
 - 発売日 : 
     - Triangle Complete Disc6 特典: 2020/06/26
     - 一般: 2025/01/24
