@@ -6,13 +6,6 @@
 
 ## おすすめ
 
-!!!info "01/27まで"
-    **「オトメ世界の歩き方」オリジナルサウンドトラック**
-    <div class="grid cards" markdown>
-        [![「オトメ世界の歩き方」オリジナルサウンドトラック](https://booth.pximg.net/c5b0f380-1d1c-40d6-8d00-e57c7eb93fde/i/6439872/939dd3d3-ca43-4911-b2d9-ae78ec7ad09d.png)](https://booth.pm/ja/items/6439872)
-         
-    </div>
-
 !!!info "02/24頃まで？"
     **終わりの鐘が鳴る前に ボーカルアルバムセット**
     <div class="grid cards" markdown>
