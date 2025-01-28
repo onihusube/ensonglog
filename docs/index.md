@@ -13,6 +13,7 @@
         [![終わりの鐘が鳴る前に Cahpter.3 + ボーカルアルバムセット](https://booth.pximg.net/93126859-441c-464a-ad48-403ae9955b6d/i/6498575/17411eab-980a-45e8-930c-f8c6cc9c614e.png)](https://cynicalhoney.booth.pm/items/6498575)
         [![C105新刊セット](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045297.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2764442)
         [![終わりの鐘が鳴る前に Cahpter.3 + ボーカルアルバムセット](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045298.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2764441)
+        [![終わりの鐘が鳴る前に ボーカルアルバム単品](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045128.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2717345)
     </div>
 
 - 商品画像はそれぞれのリンク先からの引用です
