@@ -16,6 +16,13 @@
         [![終わりの鐘が鳴る前に ボーカルアルバム単品](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045128.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2717345)
     </div>
 
+!!!info "02/27まで"
+    **【最終募集】月に寄りそう乙女の作法“桜小路ルナ”初キャラソン制作プロジェクト**
+    <div class="grid cards" markdown>
+        [![月に寄りそう乙女の作法“桜小路ルナ”初キャラソン制作プロジェクト！！集](https://image-ichiba2.storage.googleapis.com/prod/auctions/871/images/aspect_ratio_3to2_w900___1737709354__%E3%83%AB%E3%83%8A%E6%A7%98%E3%82%AF%E3%83%A9%E3%83%95%E3%82%A1%E3%83%B32%E5%9B%9E%E7%9B%AETOP%E7%94%BB%E5%83%8F.jpg)](https://ubgoe.com/projects/871)
+        　
+    </div>
+
 - 商品画像はそれぞれのリンク先からの引用です
 - このPRは勝手にやっているものです（アフィリエイトとかではないです）
 
