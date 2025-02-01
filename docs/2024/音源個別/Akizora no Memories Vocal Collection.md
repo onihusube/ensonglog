@@ -13,9 +13,12 @@
 ## その他
 
 - 作品/ブランド : アキゾラのメモリーズ シリーズ / GALEX SOFT
-- 購入先: [BOOTH](https://galexsoft.booth.pm/items/6431194)
+- 購入先
+    - CD: [BOOTH](https://galexsoft.booth.pm/items/6431194)
+    - DL: [LinkCore](https://linkco.re/ntepcBt2)
 - 歌詞データ: [BOOTH](https://galexsoft.booth.pm/items/6405235)
-- メディア : CD
+- メディア : CD/DL
 - 発売日
     - 電気外祭り/BOOTH : 2024/12/28
     - C105 : 2024/12/29
+    - DL: 2025/02/06
