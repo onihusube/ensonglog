@@ -9,9 +9,9 @@
 | 03 | Photograph | かわしまりの | MeltyMoment | ED | 澄田まお | 戸田章世 | 戸田章世 |  | 2014 |
 | 04 | ヒミツプラネット | 久野のぎ | シークレットラブ(仮) | OP | 永原さくら | A-dash | A-dash |  | 2024 |
 | 05 | オープニングセレモニー | 奏雨 | IxSHE Tell | OP | 永原さくら | 佐久間きらら | 佐久間きらら |  | 2018 |
-| 06 | a little more (Karaoke.Ver) |  |  |  |  | 日山尚 | 東タカゴー |  | 2011 |
+| 06 | a little more (Karaoke.Ver) |  |  |  |  | 東タカゴー | 東タカゴー |  | 2011 |
 | 07 | 僕らのWatercolor (Karaoke.Ver) |  |  |  |  | しっぽり虎太郎、アルベニス・ジョルダーニ | アルベニス・ジョルダーニ |  | 2019 |
-| 08 | Photograph (Karaoke.Ver) |  |  |  |  | 戸田章世 | 戸田章世 |  | 20214|
+| 08 | Photograph (Karaoke.Ver) |  |  |  |  | 戸田章世 | 戸田章世 |  | 2014 |
 | 09 | ヒミツプラネット (Karaoke Ver) |  |  |  |  | A-dash | A-dash |  | 2024 |
 | 10 | オープニングセレモニー (Karaoke. Ver) |  |  |  |  | 佐久間きらら | 佐久間きらら |  | 2011 |
 
