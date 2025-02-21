@@ -15,12 +15,11 @@
 | 09 | ヒミツプラネット (Karaoke Ver) |  |  |  |  | A-dash | A-dash |  | 2024 |
 | 10 | オープニングセレモニー (Karaoke. Ver) |  |  |  |  | 佐久間きらら | 佐久間きらら |  | 2011 |
 
-## 試聴
-
-- オープニングセレモニー : [Youtube](https://www.youtube.com/watch?v=HS4cLLcaD2Q)
-
 ## その他
 
 - HP : [https://www.hook-net.jp/goods/hvcc/](https://www.hook-net.jp/goods/hvcc/)
+- 試聴
+    - クロスフェード: [Youtube](https://www.youtube.com/watch?v=v7ciaA0h00U)
+    - オープニングセレモニー : [Youtube](https://www.youtube.com/watch?v=HS4cLLcaD2Q)
 - メディア : CD
 - 発売日 : 2025/04/25
