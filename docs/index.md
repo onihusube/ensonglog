@@ -4,28 +4,6 @@
 
 掲載されている情報はgitで管理されてGithub上にあり、markdownの表という人間にも機械にも比較的扱いやすい形式で保存しています。リポジトリへのリンクはページ右上にあります。
 
-## おすすめ
-
-!!!info "02/24頃まで？"
-    **終わりの鐘が鳴る前に ボーカルアルバムセット**
-    <div class="grid cards" markdown>
-        [![ボーカルアルバム+イラスト&設定資料集](https://booth.pximg.net/93126859-441c-464a-ad48-403ae9955b6d/i/6498554/9760063a-514a-4a39-8421-e3d7a3cbf924.png)](https://cynicalhoney.booth.pm/items/6498554)
-        [![終わりの鐘が鳴る前に Cahpter.3 + ボーカルアルバムセット](https://booth.pximg.net/93126859-441c-464a-ad48-403ae9955b6d/i/6498575/17411eab-980a-45e8-930c-f8c6cc9c614e.png)](https://cynicalhoney.booth.pm/items/6498575)
-        [![C105新刊セット](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045297.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2764442)
-        [![終わりの鐘が鳴る前に Cahpter.3 + ボーカルアルバムセット](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045298.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2764441)
-        [![終わりの鐘が鳴る前に ボーカルアルバム単品](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001045128.jpg)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2717345)
-    </div>
-
-!!!info "02/27まで"
-    **【最終募集】月に寄りそう乙女の作法“桜小路ルナ”初キャラソン制作プロジェクト**
-    <div class="grid cards" markdown>
-        [![月に寄りそう乙女の作法“桜小路ルナ”初キャラソン制作プロジェクト！！集](https://image-ichiba2.storage.googleapis.com/prod/auctions/871/images/aspect_ratio_3to2_w900___1737709354__%E3%83%AB%E3%83%8A%E6%A7%98%E3%82%AF%E3%83%A9%E3%83%95%E3%82%A1%E3%83%B32%E5%9B%9E%E7%9B%AETOP%E7%94%BB%E5%83%8F.jpg)](https://ubgoe.com/projects/871)
-        　
-    </div>
-
-- 商品画像はそれぞれのリンク先からの引用です
-- このPRは勝手にやっているものです（アフィリエイトとかではないです）
-
 ## 情報の追記・修正に関して
 
 [Github](https://github.com/onihusube/ensonglog)のIssue/Pull Requestからお願いします（アカウントが必要です）。
