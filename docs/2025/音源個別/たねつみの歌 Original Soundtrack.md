@@ -58,7 +58,7 @@
      - [twitter](https://x.com/ANIPLEX_EXE/status/1883802537767358708)
 - 購入先
      - [Steam](https://store.steampowered.com/app/3427230/_Original_Soundtrack/)
-     - その他配信サイト
+     - [LinkFire](https://anxmusic.lnk.to/2dC0Gd)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=0RjW9mI9b38)
 - メディア : DL
 - 発売日 : 2025/03/04
