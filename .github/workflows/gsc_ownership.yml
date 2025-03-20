@@ -12,6 +12,8 @@ jobs:
   update-gh-pages:
     if: ${{ github.event.workflow_run.conclusion == 'success' }} # 前のジョブが成功した場合のみ実行
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
