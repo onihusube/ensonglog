@@ -51,5 +51,7 @@
 ## その他
 
 - 作品/ブランド : MELLOW MUSIC BEST 2020-2024 / MELLOW
+- 試聴
+    - ヒロイン : [Youtube](https://www.youtube.com/watch?v=H0vwS3PW19o)
 - メディア : CD
 - 発売日 : 2025/04/25
