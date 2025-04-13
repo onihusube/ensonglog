@@ -15,11 +15,11 @@
 
 ## その他
 
-- 視聴 :
-  - [主題歌｜『癒やしてあげたい』シリーズ](https://argonauts-soft.com/products/ms29/special_song.html)
-  - [青い夏](https://www.youtube.com/watch?v=x7TypEjzHzU)
-  - [キミ＝ボク](https://www.youtube.com/watch?v=WWUVO9hWLMI)
-  - [願うゆらゆら](https://www.youtube.com/watch?v=sn4mrhxMnHw)
+- 視聴
+  　- [主題歌｜『癒やしてあげたい』シリーズ](https://argonauts-soft.com/products/ms29/special_song.html)
+  　- [青い夏](https://www.youtube.com/watch?v=x7TypEjzHzU)
+  　- [キミ＝ボク](https://www.youtube.com/watch?v=WWUVO9hWLMI)
+  　- [願うゆらゆら](https://www.youtube.com/watch?v=sn4mrhxMnHw)
 - メディア : CD
 - 発売日
     - M3春: 2025/04/27
