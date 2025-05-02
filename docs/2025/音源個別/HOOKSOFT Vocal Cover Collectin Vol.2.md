@@ -19,6 +19,7 @@
 
 - HP : [https://www.hook-net.jp/goods/hvcc/](https://www.hook-net.jp/goods/hvcc/)
 - 試聴
+    - ミリオンタイムズ : [Youtube](https://www.youtube.com/watch?v=DRDegfpq56g)
     - LOVE Gotcha! : [Youtube](https://www.youtube.com/watch?v=ydKDZgJvVLk)
 - メディア : CD
 - 発売日 : 2025/07/25
