@@ -19,6 +19,7 @@
 
 - HP : [https://www.hook-net.jp/goods/hvcc/](https://www.hook-net.jp/goods/hvcc/)
 - 試聴
+    - クロスフェード: [Youtube](https://www.youtube.com/watch?v=eapMrdNYPhA)
     - ミリオンタイムズ : [Youtube](https://www.youtube.com/watch?v=DRDegfpq56g)
     - LOVE Gotcha! : [Youtube](https://www.youtube.com/watch?v=ydKDZgJvVLk)
 - メディア : CD
