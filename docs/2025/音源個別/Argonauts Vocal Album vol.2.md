@@ -20,7 +20,10 @@
     - [青い夏](https://www.youtube.com/watch?v=x7TypEjzHzU)
     - [キミ＝ボク](https://www.youtube.com/watch?v=WWUVO9hWLMI)
     - [願うゆらゆら](https://www.youtube.com/watch?v=sn4mrhxMnHw)
+    - [クロスフェードデモ](https://www.youtube.com/watch?v=V8OvCRyLkb4)
 - メディア : CD
+- 購入
+    - [公式通販](https://hivesix.base.shop/items/109149540)
 - 発売日
     - M3春: 2025/04/27
     - 一般: 2025/06/27
