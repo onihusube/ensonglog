@@ -24,6 +24,7 @@
 - メディア : CD
 - 購入
     - [公式通販](https://hivesix.base.shop/items/109149540)
+    - [配信](https://linkco.re/v60gsHQu)
 - 発売日
     - M3春: 2025/04/27
     - 一般: 2025/06/27
