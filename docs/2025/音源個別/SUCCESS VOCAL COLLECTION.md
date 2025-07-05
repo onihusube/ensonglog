@@ -20,7 +20,7 @@
 - ブランド : サクセス
 - 購入先について : [twitter](https://x.com/SGM_SUCCESS/status/1929445393194012918)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=x4JLVKt8_Kg)
-- メディア : CD/DL
+- メディア : CD
 - 発売日
     - 2025/04/27 (M3春)
     - 2025/05/19 (一部店舗/通販)
