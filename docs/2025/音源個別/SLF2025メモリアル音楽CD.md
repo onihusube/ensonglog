@@ -59,7 +59,9 @@
 
 - 購入先
     - [公式通販](https://nijijyu.net/products/detail.php?product_id=1591)
+    - [FANZA](https://www.dmm.co.jp/mono/figure/-/detail/=/cid=storeafi00160ulrjqo4yku/)
 - メディア : CD
 - 発売日
     - ライブ物販 : 2025/05/10
     - 通販 : 2025/06/25
+    - CGF2025夏 : 2025/08/04
