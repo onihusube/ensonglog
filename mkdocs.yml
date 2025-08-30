@@ -8,6 +8,7 @@ site_url: https://onihusube.github.io/ensonglog/
 nav:
     - 🏡 Home :
       - 🏡 トップページ: index.md
+      - 🔎 検索について: top/search.md
     - 🎵 楽曲:
       - 2025年 : 2025/楽曲.md
       - 2024年 : 2024/楽曲.md
