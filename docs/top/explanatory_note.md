@@ -16,7 +16,7 @@
 その楽曲あるいは音源がサブスク/DLで配信されている場合、以下のアイコンを使用しています
 
 - 🎵🔗: サブスク/DLの配信リンクまとめサイトへのリンク
-- :material-book-music:: サブスク/DLの配信リンクまとめサイトへのリンク
     - 特定のサイトではなく、LinkCoreやTuneCoreなどのまとめサイトへのリンクに使用しています
+    - 置換作業中です...
 - BOOTH: [BOOTH](https://booth.pm/en)へのリンク
 - Steam: [Steam](https://store.steampowered.com/)へのリンク
