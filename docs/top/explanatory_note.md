@@ -18,5 +18,9 @@
 - 🎵🔗: サブスク/DLの配信リンクまとめサイトへのリンク
     - 特定のサイトではなく、LinkCoreやTuneCoreなどのまとめサイトへのリンクに使用しています
     - 置換作業中です...
+- [:material-music-box:](https://nex-tone.link/A00201738)
+- [:material-book-music:](https://nex-tone.link/A00201738)
+- [:material-file-music:](https://nex-tone.link/A00201738)
+- [:material-folder-music:](https://nex-tone.link/A00201738)
 - BOOTH: [BOOTH](https://booth.pm/en)へのリンク
 - Steam: [Steam](https://store.steampowered.com/)へのリンク
