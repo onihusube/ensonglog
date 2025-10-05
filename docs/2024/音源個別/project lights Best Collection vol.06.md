@@ -1,4 +1,4 @@
-# Project Lights Best Collection vol.06
+# project lights Best Collection vol.06
 
 ## 収録曲
 
