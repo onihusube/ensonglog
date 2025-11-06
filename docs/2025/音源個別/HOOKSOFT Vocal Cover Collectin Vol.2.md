@@ -19,7 +19,8 @@
 
 - HP : [https://www.hook-net.jp/goods/hvcc/](https://www.hook-net.jp/goods/hvcc/)
 - 試聴
-    - クロスフェード: [Youtube](https://www.youtube.com/watch?v=eapMrdNYPhA)
+    - クロスフェード : [Youtube](https://www.youtube.com/watch?v=eapMrdNYPhA)
+    - 虹色の季節へ : [Youtube](https://www.youtube.com/watch?v=9TN9ES1gISI)
     - ミリオンタイムズ : [Youtube](https://www.youtube.com/watch?v=DRDegfpq56g)
     - LOVE Gotcha! : [Youtube](https://www.youtube.com/watch?v=ydKDZgJvVLk)
 - メディア : CD
