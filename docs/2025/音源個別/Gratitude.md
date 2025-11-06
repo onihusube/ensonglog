@@ -19,10 +19,10 @@
 
 | トラック | 曲名 | ボーカル | 作品 | 種別 | 作詞 | 作曲 | 編曲 | その他 | 年 |
 |---|---|---|---|---|---|---|---|---|---|
-| 11 | あなたへの詩 - “your song” music box arrange - | | プリマ☆ステラ |  | | ピクセルビー | ピクセルビー | | 2008 |
+| 11 | あなたへの詩 - “your song” music box arrange - | | プリマ☆ステラ |  | | ピクセルビー | ピクセルビー | | 2009 |
 | 12 | 秘密の言葉 - “ヒミツノコトバ” original - | | プリ☆さら ～ドキドキ×らぶらぶWファンディスク～ |  | | ピクセルビー | ピクセルビー | | 2009 |
 | 13 | 星空の記憶 - “風の彼方” music box arrange - | | プリ☆さら ～ドキドキ×らぶらぶWファンディスク～ |  | | Meis Clauson | Meis Clauson | | 2009 |
-| 14 | 茉莉菜の記憶 - “Everlasting song” piano arrange - | | オレと彼女は主従なカンケイ |  | | Meis Clauson | Meis Clauson | | 2007 |
+| 14 | 茉莉菜の記憶 - “Everlasting song” piano arrange - | | オレと彼女は主従なカンケイ |  | | Meis Clauson | Meis Clauson | | 2009 |
 
 ## その他
 
