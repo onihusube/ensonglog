@@ -8,7 +8,7 @@ site_url: https://onihusube.github.io/ensonglog/
 nav:
     - 🏡 Home :
       - 🏡 トップページ: index.md
-      - 🖋 情報の追記・修正等について: top/contribution.md
+      - ✒ 情報の追記・修正等について: top/contribution.md
       - 🔎 検索について: top/search.md
       - ℹ️ サイト内での表記について: top/explanatory_note.md
     - 🎵 楽曲:

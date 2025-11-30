@@ -10,6 +10,6 @@
 
 Githubわからん・アカウント作りたくないなどの場合はこちらのフォームからでもokです。
 
-https://docs.google.com/forms/d/e/1FAIpQLScDUrsE6ZBYIlzrSYuhxtFXIvex6AGMuJxzHvxQQJcCf8o4Nw/viewform?usp=dialog
+[ensonglog 問い合わせ箱](https://docs.google.com/forms/d/e/1FAIpQLScDUrsE6ZBYIlzrSYuhxtFXIvex6AGMuJxzHvxQQJcCf8o4Nw/viewform?usp=dialog)
 
 こちらのフォームにおいては送信後まもなく上記GithubのIssueページに対応するIssueが立ち、そこに内容がコピペされます。管理している人は専らこれを確認します。上記フォームで名前を入力（本名である必要はないです）しておくと、タイトルに名前が入るので識別に若干便利になります。
