@@ -4,10 +4,6 @@
 
 掲載されている情報はgitで管理されてGithub上にあり、markdownの表という人間にも機械にも比較的扱いやすい形式で保存しています。リポジトリへのリンクはページ右上にあります。
 
-## 情報の追記・修正に関して
-
-[Github](https://github.com/onihusube/ensonglog)のIssue/Pull Requestからお願いします（アカウントが必要です）。
-
 ## 作業予定
 
 - 2023年以前のリストの作成
