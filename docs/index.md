@@ -26,14 +26,14 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 
 ## 2日目（12/31 水曜日）
 
-|場所|配置|サークル名|商品名|その他|
+|ホール|配置|サークル名|商品名|その他|
 |---|---|---|---|---|
 | 南1 | 17ab | GALEX SOFT | ENCORE! VOCAL COLLECTION | [BOOTH](https://galexsoft.booth.pm/items/7732343) |
 | | | | | |
 
 ## 企業
 
-|場所|配置|企業名|商品名|その他|
+|ホール|配置|ブース名|商品名|その他|
 |---|---|---|---|---|
 | 西3 | 1134 | オトメ世界の歩き方／オルトロス | パープルソフトウェア ヴォーカルソング集 紫盤 | 委託 </br> 再販（[紫盤2024](https://www.purplesoftware.jp/news/2024murasaki/index.html)） |
 | 西3 | 1134 | オトメ世界の歩き方／オルトロス | 綺良雪ワークスベストアルバム「KiLLER ARCHiVE」 | 委託 </br> 再販（[BOOTH](https://yuki-official.booth.pm/items/7514714)） |
