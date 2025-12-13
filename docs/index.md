@@ -4,12 +4,6 @@
 
 掲載されている情報はgitで管理されてGithub上にあり、markdownの表という人間にも機械にも比較的扱いやすい形式で保存しています。リポジトリへのリンクはページ右上にあります。
 
-## 作業予定
-
-- 2023年以前のリストの作成
-- 音源リストの作成
-    - 音源個別ページを作成し、BGMも含めたリストを記録する
-
 ## 備考
 
 サイトの更新が無くなったら、管理してる人が死んだものと思って、ご自由にフォークして別にサイトを立ち上げてもらって構いません。
@@ -27,3 +21,26 @@
 当サイトでは、収集した情報を第三者と共有することはありません。また、Google Analyticsによって収集された情報は、Google社のプライバシーポリシーに従って管理されます。Google社によるデータの扱いについては次のサイトを確認してください。
 
 https://policies.google.com/technologies/partner-sites?hl=ja
+
+# C107 関連音源リスト
+
+## 2日目（12/31 水曜日）
+
+|場所|配置|サークル名|商品名|その他|
+|---|---|---|---|---|
+| 南1 | 17ab | GALEX SOFT | ENCORE! VOCAL COLLECTION | [BOOTH](https://galexsoft.booth.pm/items/7732343) |
+| | | | | |
+
+## 企業
+
+|場所|配置|企業名|商品名|その他|
+|---|---|---|---|---|
+| 西3 | 1134 | オトメ世界の歩き方／オルトロス | パープルソフトウェア ヴォーカルソング集 紫盤 | 委託 </br> 再販（[紫盤2024](https://www.purplesoftware.jp/news/2024murasaki/index.html)） |
+| 西3 | 1134 | オトメ世界の歩き方／オルトロス | 綺良雪ワークスベストアルバム「KiLLER ARCHiVE」 | 委託 </br> 再販（[BOOTH](https://yuki-official.booth.pm/items/7514714)） |
+| 西3 | 1143 | ぱれっと with CLEARRAVE | 9-nine- Symphonic Concert2 with Animation Blu-ray Disc | 再販 |
+| 西3 | 1143 | ぱれっと with CLEARRAVE | 9-nine- Ruler's Crown Double Single | 再販 |
+| 西3 | 1232 | 美少女万華鏡 15th Anniversary | 美少女万華鏡 オリジナル・サウンドトラック | |
+| 西4 | 1161 | ビジュアルアーツ | AIR 16bit Arrangements | VA冬フェス先行 |
+| 西4 | 1161 | ビジュアルアーツ | TVアニメ Summer Pockets "leave a mark" | VA冬フェス先行 |
+| 西4 | 1161 | ビジュアルアーツ | tone work's Harmony : 2nd note ～星織ユメミライ | VA冬フェス先行 |
+| | | | | |
