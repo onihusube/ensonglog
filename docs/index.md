@@ -22,7 +22,7 @@
 
 https://policies.google.com/technologies/partner-sites?hl=ja
 
-# C107 関連音源リスト
+# 📚 C107 関連音源リスト 💿
 
 ## 2日目（12/31 水曜日）
 
