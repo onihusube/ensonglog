@@ -22,16 +22,18 @@
 
 https://policies.google.com/technologies/partner-sites?hl=ja
 
-# 📚 C107 関連音源リスト 💿
+## 📚 C107 関連音源リスト 💿
 
-## 2日目（12/31 水曜日）
+一時的にここに配置。
+
+### 2日目（12/31 水曜日）
 
 |ホール|配置|サークル名|商品名|その他|
 |---|---|---|---|---|
 | 南1 | 17ab | GALEX SOFT | ENCORE! VOCAL COLLECTION | [BOOTH](https://galexsoft.booth.pm/items/7732343) |
 | | | | | |
 
-## 企業
+### 企業
 
 |ホール|配置|ブース名|商品名|その他|
 |---|---|---|---|---|
