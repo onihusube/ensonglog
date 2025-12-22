@@ -30,7 +30,8 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 
 |ホール|配置|サークル名|商品名|その他|
 |---|---|---|---|---|
-| 南1 | 17ab | GALEX SOFT | ENCORE! VOCAL COLLECTION | [BOOTH](https://galexsoft.booth.pm/items/7732343) |
+| 南1 | ｌ 17ab | GALEX SOFT | ENCORE! VOCAL COLLECTION | [BOOTH](https://galexsoft.booth.pm/items/7732343) |
+| 南1 | k 33a | Creative Blossoms | 花咲く君が連れ出した。夏の終わりの白い花 ORIGINAL SONG & SOUNDTRACK |  |
 | | | | | |
 
 ### 企業
