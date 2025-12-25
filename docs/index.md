@@ -32,6 +32,7 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 |---|---|---|---|---|
 | 南1 | l 17ab | GALEX SOFT | ENCORE! VOCAL COLLECTION | [BOOTH](https://galexsoft.booth.pm/items/7732343) |
 | 南1 | k 33a | Creative Blossoms | 花咲く君が連れ出した。夏の終わりの白い花 ORIGINAL SONG & SOUNDTRACK |  |
+| 南1 | k 34a | MUGnet | 梵天世界の壊し方 OST | 後日通販あり？ |
 | | | | | |
 
 ### 企業
