@@ -4,38 +4,42 @@
 
 | トラック | 曲名 | ボーカル | 種別 | 作詞 | 作曲 | 編曲 | 再生時間 | その他 |
 |---|---|---|---|---|---|---|---|---|
-| 01 | コントラスト | 夢乃ゆき | OPテーマ | 東条サダヲ（StudioComodo） | 東条サダヲ（StudioComodo） | 東条サダヲ（StudioComodo） | | Guitar: Nemoka.T, ミックス: 神灼爺 |
-| 02 | 青の足音 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 03 | ハイライト | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 04 | 見えない虹 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 05 | コントレイル | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 06 | 鈍色模様 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 07 | ペルソナ | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 08 | 片手間の季節 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 09 | 透明クジラ | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 10 | Ghost | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 11 | Minamo（仮） | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 12 | 幻日 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 13 | Abyss | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 14 | Memories | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 15 | Memento | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 16 | Fizzy Drink | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 17 | リフレクション | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 18 | チョコレートボックス | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 19 | 残り香 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 20 | メタメリズム | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 21 | 夏が囁けば | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 22 | Afterglow | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 23 | サマータイムセレナーデ | hana | 挿入曲 | | 東条サダヲ（StudioComodo） | | | |
-| 24 | ララバイ | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 25 | 漂白 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 26 | 悪戯 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 27 | 陰日向 | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 28 | Psychic | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 29 | Believe In You | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 30 | Our Colors | | BGM | | 東条サダヲ（StudioComodo） | | | |
-| 31 | パステル | 月乃 | ほたるED曲 | | 東条サダヲ（StudioComodo） | | | |
-| 32 | Puddle Blue | 八花 | 水萌ED曲 | | 東条サダヲ（StudioComodo） | | | |
+| 01 | コントラスト | 夢乃ゆき | OPテーマ | 東条サダヲ | 東条サダヲ | 東条サダヲ | | E.Guitar: Nemoka.T, All Other Instruments: 東条サダヲ, Mixed by: 神灼爺 |
+| 02 | 青の足音 | | BGM | | 東条サダヲ | | | |
+| 03 | ハイライト | | BGM | | 東条サダヲ | | | |
+| 04 | 見えない虹 | | BGM | | 東条サダヲ | | | |
+| 05 | コントレイル | | BGM | | 東条サダヲ | | | |
+| 06 | 鈍色模様 | | BGM | | 東条サダヲ | | | |
+| 07 | ペルソナ | | BGM | | 東条サダヲ | | | |
+| 08 | 片手間の季節 | | BGM | | 東条サダヲ | | | |
+| 09 | 透明クジラ | | BGM | | 東条サダヲ | | | |
+| 10 | Ghost | | BGM | | 東条サダヲ | | | |
+| 11 | Minamo（仮） | | BGM | | 東条サダヲ | | | |
+| 12 | 幻日 | | BGM | | 東条サダヲ | | | |
+| 13 | Abyss | | BGM | | 東条サダヲ | | | |
+| 14 | Memories | | BGM | | 東条サダヲ | | | |
+| 15 | Memento | | BGM | | 東条サダヲ | | | |
+| 16 | Fizzy Drink | | BGM | | 東条サダヲ | | | |
+| 17 | リフレクション | | BGM | | 東条サダヲ | | | |
+| 18 | チョコレートボックス | | BGM | | 東条サダヲ | | | |
+| 19 | 残り香 | | BGM | | 東条サダヲ | | | |
+| 20 | メタメリズム | | BGM | | 東条サダヲ | | | |
+| 21 | 夏が囁けば | | BGM | | 東条サダヲ | | | |
+| 22 | Afterglow | | BGM | | 東条サダヲ | | | |
+| 23 | サマータイムセレナーデ | hana | 挿入曲 | | 東条サダヲ | 東条サダヲ | 東条サダヲ | E.Guitar: Nemoka.T, All Other Instruments: 東条サダヲ, Mixed by: 神灼爺 |
+| 24 | ララバイ | | BGM | | 東条サダヲ | | | |
+| 25 | 漂白 | | BGM | | 東条サダヲ | | | |
+| 26 | 悪戯 | | BGM | | 東条サダヲ | | | |
+| 27 | 陰日向 | | BGM | | 東条サダヲ | | | |
+| 28 | Psychic | | BGM | | 東条サダヲ | | | |
+| 29 | Believe In You | | BGM | | 東条サダヲ | | | |
+| 30 | Our Colors | | BGM | | 東条サダヲ | | | |
+| 31 | パステル | 月乃 | ほたるED曲 | | 東条サダヲ | 東条サダヲ | 東条サダヲ | E.Guitar: Nemoka.T, All Other Instruments: 東条サダヲ, Mixed by: 東条サダヲ |
+| 32 | Puddle Blue | 八花 | 水萌ED曲 | | 東条サダヲ | 東条サダヲ | 東条サダヲ | E.Guitar: Nemoka.T, All Other Instruments: 東条サダヲ, Mixed by: 東条サダヲ |
+
+#### 共通クレジット
+
+- Mastered by: 神灼爺
 
 ### 予約特典「アレンジ楽曲ダウンロードカード」
 
