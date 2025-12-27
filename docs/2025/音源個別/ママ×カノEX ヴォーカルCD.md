@@ -8,7 +8,7 @@
 | 02 | | | BGM | | | | 03:16 | |
 | 03 | | | BGM | | | | 03:22 | |
 | 04 | | | BGM | | | | 03:20 | |
-| 05 | | | BGM | | | | 02:12 | |
+| 05 | Secret for desire オルゴールver | | | | | | 02:12 | |
 | 06 | ノブレス・オブリージュ | solfa feat.紫咲ほたる | ED | 天ヶ咲麗 | 橋咲透 | 橋咲透 | 04:38 | |
 | 07 | Secret for desire instrumental |||| 橋咲透 | 橋咲透 | 04:18 | （off vocalかも） |
 | 08 | ノブレス・オブリージュ instrumental|||| 橋咲透 | 橋咲透 | 04:38 | （off vocalかも） |
