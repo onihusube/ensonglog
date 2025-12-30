@@ -31,14 +31,17 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 |ホール|配置|サークル名|商品名|その他|
 |---|---|---|---|---|
 | 南1 | a 52ab | ChaoGames | でびるコネクショん イラストブックレット付き オリジナルサウンドトラック | [Steam](https://store.steampowered.com/app/4100890/__Original_Soundtrack/) |
+| 南1 | k 08a | あんでぱんだ | 希亡のブラック・レイン 主題歌CD「サイゴノキボウ」 |  |
+| 南1 | k 23a | みやこそふと | 生命の栞 本編&サウンドトラック |  |
 | 南1 | k 24b | えるりんご | ゲーム制作と青い春 サウンドトラック | EDフルと書き下ろしボーカル曲1曲、BGMの全24曲 |
+| 南1 | k 28a | Null:SheeP | キミと出会うも多生の縁 サントラ付き初回限定版 | 再販（C106） |
 | 南1 | k 33a | Creative Blossoms | 花咲く君が連れ出した。夏の終わりの白い花 ORIGINAL SONG & SOUNDTRACK | OP/ED、BGMの全20曲 |
 | 南1 | k 34a | MUGnet | 梵天世界の壊し方 Original Soundtrack | 後日通販あり？ |
 | 南1 | k 45b | Links8 from Legame | SmileRemaster OP/ED収録カセットテープ | セット購入特典 |
+| 南1 | l 03b |  | 嘘から始まる恋の夏 オリジナルサウンドトラック | 再販 [BOOTH](https://booth.pm/ja/items/5210748) |
 | 南1 | l 10ab | インテグラル | 【カタネガイ音楽集】 オリジナルサウンドトラック | [BOOTH](https://signumiisprite.booth.pm/items/7813315) |
 | 南1 | l 17ab | GALEX SOFT | ENCORE! VOCAL COLLECTION | [BOOTH](https://galexsoft.booth.pm/items/7732343) |
 | 南1 | l 16b | 七夕プラネット | デザイアフラワーズ コンプリートアルバム | 再販（C106） |
-| | | | | |
 
 ### 企業
 
