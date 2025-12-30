@@ -49,6 +49,8 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 | 西3 | 1143 | ぱれっと with CLEARRAVE | 9-nine- Ruler's Crown Double Single | 再販 |
 | 西3 | 1232 | 美少女万華鏡 15th Anniversary | 美少女万華鏡 オリジナル・サウンドトラック | |
 | 西3 | 1241 | あいりすミスティリア！／オーガスト | 『あいミス』サントラ VOL.9 | [BOOTH](https://august-soft.booth.pm/items/7693087) |
+| 西4 | 1242 | 工画堂スタジオ | シンフォニック＝レイン　ボーカルアルバム「RAINBOW」 復刻盤 | 2024年発売のもの [HP](https://omnishop.kogado.com/item.php?id=1910&ct=4&kw=) |
+| 西4 | 1242 | 工画堂スタジオ | リトルウィッチパルフェ HEARTFUL WISH / リトルアルカディア | 2012年発売のもの [HP](https://omnishop.kogado.com/item.php?id=345&ct=4&kw=) |
 | 西4 | 1161 | ビジュアルアーツ | AIR 16bit Arrangements | VA冬フェス先行 |
 | 西4 | 1161 | ビジュアルアーツ | TVアニメ Summer Pockets "leave a mark" | VA冬フェス先行 |
 | 西4 | 1161 | ビジュアルアーツ | tone work's Harmony : 2nd note ～星織ユメミライ | VA冬フェス先行 |
