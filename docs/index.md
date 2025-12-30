@@ -37,6 +37,7 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 | 南1 | k 45b | Links8 from Legame | SmileRemaster OP/ED収録カセットテープ | セット購入特典 |
 | 南1 | l 10ab | インテグラル | 【カタネガイ音楽集】 オリジナルサウンドトラック | [BOOTH](https://signumiisprite.booth.pm/items/7813315) |
 | 南1 | l 17ab | GALEX SOFT | ENCORE! VOCAL COLLECTION | [BOOTH](https://galexsoft.booth.pm/items/7732343) |
+| 南1 | l 16b | 七夕プラネット | デザイアフラワーズ コンプリートアルバム | 再販（C106） |
 | | | | | |
 
 ### 企業
@@ -54,4 +55,3 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 | 西4 | 1161 | ビジュアルアーツ | AIR 16bit Arrangements | VA冬フェス先行 |
 | 西4 | 1161 | ビジュアルアーツ | TVアニメ Summer Pockets "leave a mark" | VA冬フェス先行 |
 | 西4 | 1161 | ビジュアルアーツ | tone work's Harmony : 2nd note ～星織ユメミライ | VA冬フェス先行 |
-| | | | | |
