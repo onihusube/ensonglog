@@ -13,27 +13,3 @@
     border-radius: 0.5em;
     padding: 0.6em 1em;
 }
-
-/* ダークモード対応 */
-[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__search-input {
-    background-color: var(--md-default-bg-color);
-    color: var(--md-default-fg-color);
-    border-color: var(--md-default-fg-color--lighter);
-}
-
-[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__result {
-    border-color: var(--md-default-fg-color--lightest);
-}
-
-[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__result-link {
-    color: var(--md-accent-fg-color);
-}
-
-[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__result-excerpt {
-    color: var(--md-default-fg-color--light);
-}
-
-[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__button {
-    background-color: var(--md-default-fg-color--lightest);
-    color: var(--md-default-fg-color);
-}
