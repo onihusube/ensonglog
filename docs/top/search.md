@@ -1,6 +1,8 @@
 # サイト内検索
 
-上方にある検索窓はその動作に少し癖があり、あまり精度が良くありません。現状googleのインデックスもうまく作成されていないため、より正確な検索にはこの検索ボックスを使用してください。
+こちらの検索ボックスを使用してください。
+
+日本語に対して少し癖のある動作をしますが、より短いワードで検索するとヒットしやすいと思います。また、スペース区切りでのAND検索には対応していません。
 
 <link href="/ensonglog/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/ensonglog/pagefind/pagefind-ui.js"></script>
