@@ -7,9 +7,40 @@
     margin: 1em 0;
 }
 
-/* 入力欄のスタイル調整 */
-.pagefind-ui .pagefind-ui__search-input {
-    font-size: 1em;
-    border-radius: 0.5em;
-    padding: 0.6em 1em;
+/* ライトモード: Pagefind CSS変数をMaterial変数に合わせる */
+.pagefind-ui {
+--pagefind-ui-primary: var(--md-accent-fg-color);
+--pagefind-ui-text: var(--md-default-fg-color);
+--pagefind-ui-background: var(--md-default-bg-color);
+--pagefind-ui-border: var(--md-default-fg-color--lightest);
+--pagefind-ui-border-radius: 0.5em;
+}
+
+/* ダークモード: Pagefind CSS変数を明示的な値で上書き */
+[data-md-color-scheme="slate"] .pagefind-ui {
+--pagefind-ui-primary: var(--md-accent-fg-color);
+--pagefind-ui-text: #e0e0e0;
+--pagefind-ui-background: var(--md-default-bg-color);
+--pagefind-ui-border: rgba(255, 255, 255, 0.2);
+--pagefind-ui-tag: rgba(255, 255, 255, 0.1);
+}
+
+/* ダークモード: Pagefind変数が効かない要素を直接指定 */
+[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__result-title,
+[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__result-link {
+color: var(--md-accent-fg-color);
+}
+
+[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__result-excerpt {
+color: #e0e0e0;
+}
+
+[data-md-color-scheme="slate"] .pagefind-ui .pagefind-ui__search-input {
+color: #e0e0e0;
+background-color: var(--md-default-bg-color);
+}
+
+[data-md-color-scheme="slate"] .pagefind-ui mark {
+color: var(--md-default-bg-color);
+background-color: var(--md-accent-fg-color);
 }
