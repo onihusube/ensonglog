@@ -38,5 +38,7 @@ jobs:
       #    --root-selector main : <main>要素内のみをインデックス対象にする
       - name: Create Pagefind search index
         run: npx pagefind --site site --glob "**/*.html" --force-language ja --root-selector "main"
-      # 3. gh-pagesブランチにデプロイ（ghp-importを直接使用）
+      - name: copy gsc ownership file
+        run: cp google290e6b23c164f08d.html site/
+      # 4. gh-pagesブランチにデプロイ（ghp-importを直接使用）
       - run: ghp-import site --force --no-jekyll --push --branch gh-pages
