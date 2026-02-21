@@ -51,16 +51,6 @@ theme:
     - navigation.footer
     - navigation.top
 
-plugins:
-  - search:
-      lang: 
-        - en
-        - ja
-      separator: '[\s　、。，．・\~～\|&!?！？はがのをにへとでやかもる「」『』ー\-]+|(?<=[\u4E00-\u9FFF])(?=[\u3040-\u309F])|(?<=[\u30A0-\u30FF])(?=[\u4E00-\u9FFF])'
-      # 前半: セパレータっぽい文字
-      # (?<=[\u4E00-\u9FFF])(?=[\u3040-\u309F]) : 漢字とひらがなの境界
-      # (?<=[\u30A0-\u30FF])(?=[\u4E00-\u9FFF]) : カタカナと漢字の境界
-
 markdown_extensions:
   - tables
   - admonition
