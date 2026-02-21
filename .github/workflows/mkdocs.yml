@@ -27,10 +27,15 @@ jobs:
       - run: pip install mkdocs-material
       # 1. MkDocsビルド（site/ ディレクトリに出力）
       - run: mkdocs build
-      # 2. Pagefindでサイト内検索インデックスを生成
+      # 2. CJK個別文字をHTMLに注入 (日本語検索精度の改善)
+      #    各ページの<main>内テキストからCJK文字を抽出し、
+      #    個別にインデックス登録されるよう隠し要素として注入する。
+      #    これにより processTerm の1文字分割が常にマッチするようになる。
+      - name: Inject CJK characters for search
+        run: python .github/workflows/scripts/inject_pagefind_chars.py site
+      # 3. Pagefindでサイト内検索インデックスを生成
       #    --force-language ja : 全ページを日本語として処理
       #    --root-selector main : <main>要素内のみをインデックス対象にする
-      #    日本語検索精度の改善は docs/top/search.md の processTerm で対応
       - name: Create Pagefind search index
         run: npx pagefind --site site --glob "**/*.html" --force-language ja --root-selector "main"
       # 3. gh-pagesブランチにデプロイ（ghp-importを直接使用）
