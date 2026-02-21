@@ -51,6 +51,8 @@ theme:
     - navigation.footer
     - navigation.top
 
+plugins: []
+
 markdown_extensions:
   - tables
   - admonition
