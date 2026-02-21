@@ -31,6 +31,6 @@ jobs:
       - run: python .github/workflows/scripts/inject_pagefind_ja.py --site-dir site
       # 3. Pagefindでサイト内検索インデックスを生成
       - name: Create Pagefind search index
-        run: npx pagefind --site site --glob "**/*.html"
+        run: npx pagefind --site site --glob "**/*.html" --force-language ja
       # 4. gh-pagesブランチにデプロイ（ghp-importを直接使用）
       - run: ghp-import site --force --no-jekyll --push --branch gh-pages

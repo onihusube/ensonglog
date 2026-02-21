@@ -49,7 +49,8 @@ HTML_GLOB = "**/*.html"
 
 # 検索テキストを注入する対象 CSS セレクタ。
 # MkDocs が生成するテーブル・段落・リスト要素全体をカバーする。
-TARGET_SELECTOR = "td, th, p, li"
+TARGET_SELECTOR = "main td, main th, main p, main li, article td, article th, article p, article li"
+BODY_SCOPE_SELECTORS = ("main", "article", "body")
 
 # 注入済みスパンを識別するための属性名。
 # 再実行時にこの属性を持つスパンを除去することで冪等性を担保する。
@@ -249,6 +250,18 @@ class SearchTextBuilder:
         return "\n".join(merged)
 
 
+def ensure_pagefind_body_scope(soup: BeautifulSoup) -> bool:
+    for selector in BODY_SCOPE_SELECTORS:
+        root = soup.select_one(selector)
+        if root is None:
+            continue
+        if root.has_attr("data-pagefind-body"):
+            return False
+        root["data-pagefind-body"] = ""
+        return True
+    return False
+
+
 # ---------------------------------------------------------------------------
 # HTML 処理
 # ---------------------------------------------------------------------------
@@ -292,6 +305,7 @@ def add_hidden_search_text(html_path: Path, builder: SearchTextBuilder) -> bool:
     # 除去フラグと追加フラグを分けて管理する。
     removed_any = False
     added_any = False
+    scope_changed = ensure_pagefind_body_scope(soup)
 
     for node in soup.select(TARGET_SELECTOR):
         # --- 冪等性: 前回の注入スパンを除去 ---
@@ -312,19 +326,21 @@ def add_hidden_search_text(html_path: Path, builder: SearchTextBuilder) -> bool:
 
         # --- hidden スパンの構築 ---
         hidden = soup.new_tag("span")
-        # HTML の ``hidden`` 属性: ブラウザ上での表示を抑制する
-        hidden["hidden"] = ""
-        # Pagefind にこのスパンのテキストをインデックス対象として認識させる
-        hidden["data-pagefind-body"] = ""
         # 再実行時の識別子: 次回スクリプト実行時にこのスパンを検出・除去するために使用
         hidden[INJECTED_ATTR] = ""
+        # 見た目は維持しつつ、DOM上は存在させてPagefindの対象にする
+        hidden["style"] = (
+            "position:absolute;left:-10000px;top:auto;width:1px;height:1px;"
+            "overflow:hidden;white-space:pre;"
+        )
+        hidden["aria-hidden"] = "true"
         hidden.string = search_text
         node.append(hidden)
         added_any = True
 
     # スパンの追加または除去が発生した場合のみファイルを書き戻す。
     # 変更がなければ不要な書き込みを避けてパフォーマンスを向上させる。
-    changed = added_any or removed_any
+    changed = added_any or removed_any or scope_changed
     if not changed:
         return False
 
