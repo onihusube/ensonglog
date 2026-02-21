@@ -31,4 +31,4 @@ jobs:
       - name: Create Pagefind search index
         run: npx pagefind --site site --glob "**/*.html"
       # 3. gh-pagesブランチにデプロイ
-      - run: mkdocs gh-deploy --force --no-build
+      - run: mkdocs gh-deploy --force
