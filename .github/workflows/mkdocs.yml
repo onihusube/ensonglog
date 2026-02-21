@@ -24,11 +24,13 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
+      - run: pip install mkdocs-material beautifulsoup4 sudachipy sudachidict_core
       # 1. MkDocsビルド（site/ ディレクトリに出力）
       - run: mkdocs build
-      # 2. Pagefindでサイト内検索インデックスを生成
+      # 2. Pagefind向け日本語検索語をHTMLへ注入（表示には影響しない）
+      - run: python .github/workflows/scripts/inject_pagefind_ja.py --site-dir site
+      # 3. Pagefindでサイト内検索インデックスを生成
       - name: Create Pagefind search index
         run: npx pagefind --site site --glob "**/*.html"
-      # 3. gh-pagesブランチにデプロイ（ghp-importを直接使用）
+      # 4. gh-pagesブランチにデプロイ（ghp-importを直接使用）
       - run: ghp-import site --force --no-jekyll --push --branch gh-pages
