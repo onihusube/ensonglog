@@ -16,7 +16,7 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - uses: actions/setup-python@v6
         with:
-          python-version: '3.13' # SudachiPyの使用するPyO3が3.13を要求するため
+          python-version: '3.x'
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
       - uses: actions/cache@v4
         with:
@@ -24,13 +24,14 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material beautifulsoup4 sudachipy sudachidict_core
+      - run: pip install mkdocs-material
       # 1. MkDocsビルド（site/ ディレクトリに出力）
       - run: mkdocs build
-      # 2. Pagefind向け日本語検索語をHTMLへ注入（表示には影響しない）
-      - run: python .github/workflows/scripts/inject_pagefind_ja.py --site-dir site
-      # 3. Pagefindでサイト内検索インデックスを生成
+      # 2. Pagefindでサイト内検索インデックスを生成
+      #    --force-language ja : 全ページを日本語として処理
+      #    --root-selector main : <main>要素内のみをインデックス対象にする
+      #    日本語検索精度の改善は docs/top/search.md の processTerm で対応
       - name: Create Pagefind search index
-        run: npx pagefind --site site --glob "**/*.html" --force-language ja
-      # 4. gh-pagesブランチにデプロイ（ghp-importを直接使用）
+        run: npx pagefind --site site --glob "**/*.html" --force-language ja --root-selector "main"
+      # 3. gh-pagesブランチにデプロイ（ghp-importを直接使用）
       - run: ghp-import site --force --no-jekyll --push --branch gh-pages
