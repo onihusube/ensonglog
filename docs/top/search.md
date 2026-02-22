@@ -26,18 +26,81 @@ window.addEventListener('DOMContentLoaded', function() {
       // 検索語を生成する必要がある。
       //
       // 【戦略】
-      // ・カタカナ語: Intl.Segmenter で辞書ベース分割しそのまま保持
-      //   → charabia の複合語インデックスと直接マッチ (ボーカル, オリジナル)
-      // ・漢字・ひらがな: 1 文字ずつ分割
-      //   → CI の inject_pagefind_chars.py が各ページの漢字・ひらがなを
-      //     個別にインデックス登録しているため、常にプレフィックスマッチする
+      // ・漢字/ひらがな: 1文字ずつ分割
+      //   → 形態素境界差での取りこぼしを防ぐ
+      // ・カタカナ連続: 語として保持
+      //   → 1文字分割による過剰ヒットを抑える
       // ・ASCII: そのまま保持
       //
+      // 例: "妖狐の深夜配信" → "妖 狐 の 深 夜 配 信"
+      // 例: "鈴谷皆人" → "鈴 谷 皆 人"
       // 例: "ここでまた逢いましょう" → "こ こ で ま た 逢 い ま し ょ う"
       // 例: "彼方の人魚姫" → "彼 方 の 人 魚 姫"
-      // 例: "ボーカル" → "ボーカル" (カタカナ複合語を維持)
-      // 例: "オリジナルサウンドトラック" → "オリジナル サウンドトラック"
+      // 例: "ボーカル" → "ボーカル"
+      // 例: "流星ワールドアクター" → "流 星 ワールドアクター"
       // ---------------------------------------------------------------
+      function splitJaPart(text) {
+        var out = [];
+        var i = 0;
+        while (i < text.length) {
+          var ch = text[i];
+          // カタカナ連続 (長音符ーを含む) は語として保持
+          if (/[\u30A1-\u30FA\u30FC]/.test(ch)) {
+            var k = i + 1;
+            while (k < text.length && /[\u30A1-\u30FA\u30FC]/.test(text[k])) k++;
+            out.push(text.slice(i, k));
+            i = k;
+            continue;
+          }
+          // 漢字/ひらがなは1文字単位
+          if (/[\u3041-\u309F\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF]/.test(ch)) {
+            out.push(ch);
+            i++;
+            continue;
+          }
+          // それ以外はそのまま
+          out.push(ch);
+          i++;
+        }
+        return out;
+      }
+
+      function isKatakanaWord(text) {
+        return /^[\u30A1-\u30FA\u30FC]+$/.test(text);
+      }
+
+      function isKanjiWord(text) {
+        return /^[\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF]+$/.test(text);
+      }
+
+      function mergeShortKatakana(parts) {
+        var merged = [];
+        var i = 0;
+        while (i < parts.length) {
+          var token = parts[i];
+          if (/^[\u30A1-\u30FA\u30FC]+$/.test(token) && token.length <= 2) {
+            var combined = token;
+            var j = i + 1;
+            while (
+              j < parts.length &&
+              /^[\u30A1-\u30FA\u30FC]+$/.test(parts[j]) &&
+              parts[j].length <= 2
+            ) {
+              combined += parts[j];
+              j++;
+            }
+            if (j > i + 1) {
+              merged.push(combined);
+              i = j;
+              continue;
+            }
+          }
+          merged.push(token);
+          i++;
+        }
+        return merged;
+      }
+
       if (typeof Intl !== 'undefined' && Intl.Segmenter) {
         var segmenter = new Intl.Segmenter('ja', { granularity: 'word' });
         var segments = Array.from(segmenter.segment(term));
@@ -46,26 +109,33 @@ window.addEventListener('DOMContentLoaded', function() {
           var s = segments[i];
           if (!s.isWordLike) continue;
           var w = s.segment;
-          // カタカナ語 (長音符ーを含む): compound のまま保持
-          if (/^[\u30A1-\u30FA\u30FC]+$/.test(w)) {
+          var prev = i > 0 ? segments[i - 1].segment : '';
+          var next = i + 1 < segments.length ? segments[i + 1].segment : '';
+          var adjacentKatakana = isKatakanaWord(prev) || isKatakanaWord(next);
+
+          // カタカナ隣接の複数漢字語は語として保持 (流星ワールド 等)
+          if (isKanjiWord(w) && w.length >= 2 && adjacentKatakana) {
             parts.push(w);
+            continue;
           }
-          // 漢字・ひらがな・混合: 1文字ずつ分割
-          else if (/[\u3041-\u309F\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF]/.test(w)) {
-            for (var j = 0; j < w.length; j++) {
-              parts.push(w[j]);
-            }
+
+          // 日本語を含む場合はスクリプト別に分割
+          if (/[\u3041-\u309F\u30A1-\u30FF\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF]/.test(w)) {
+            var split = splitJaPart(w);
+            for (var j = 0; j < split.length; j++) parts.push(split[j]);
           }
           // ASCII等: そのまま
           else {
             parts.push(w);
           }
         }
-        return parts.join(' ');
+        return mergeShortKatakana(parts).join(' ');
       }
-      // Intl.Segmenter 非対応ブラウザ用フォールバック: 全CJK文字を個別分割
+      // Intl.Segmenter 非対応ブラウザ用フォールバック
       return term
-        .replace(/([\u3041-\u309F\u30A1-\u30FF\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF])/g, ' $1 ')
+        .replace(/([\u3041-\u309F\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF])/g, ' $1 ')
+        .replace(/([\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF])([\u30A1-\u30FA\u30FC])/g, '$1 $2')
+        .replace(/([\u30A1-\u30FA\u30FC])([\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF])/g, '$1 $2')
         .replace(/\s+/g, ' ')
         .trim();
     },
