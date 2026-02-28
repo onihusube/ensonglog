@@ -19,9 +19,11 @@
 
 - 購入先
      - [Booth](https://madaranosora.booth.pm/items/6392231)
+     - [🎵🔗](https://linkco.re/S9yMNSE7)
 - 視聴 : [Youtube](https://www.youtube.com/watch?v=OaK4fe6B2eA)
-- メディア : CD
+- メディア : CD/DL
 - 発売日
     - 電気外祭り : 2024/12/28 
     - C105: 2024/12/29
     - 一般: 2025/01/31
+    - DL: 2026/01/20

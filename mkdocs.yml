@@ -8,13 +8,16 @@ site_url: https://onihusube.github.io/ensonglog/
 nav:
     - 🏡 Home :
       - 🏡 トップページ: index.md
-      - 🔎 検索について: top/search.md
+      - 🔎 サイト内検索: top/search.md
+      - 🖋 情報の追記・修正等について: top/contribution.md
       - ℹ️ サイト内での表記について: top/explanatory_note.md
     - 🎵 楽曲:
+      - 2026年楽曲リスト : 2026/楽曲.md
       - 2025年楽曲リスト : 2025/楽曲.md
       - 2024年楽曲リスト : 2024/楽曲.md
       - 2023年楽曲リスト : 2023/楽曲.md
     - 💿 音源:
+      - 2026年音源リスト : 2026/音源.md
       - 2025年音源リスト : 2025/音源.md
       - 2024年音源リスト : 2024/音源.md
       - 2023年音源リスト : 2023/音源.md
@@ -23,6 +26,7 @@ nav:
       - 2020年音源リスト : 2020/音源.md
       - 2019年音源リスト : 2019/音源.md
       - 2018年音源リスト : 2018/音源.md
+      - 2017年以前 : before/音源.md
 
 theme:
   name: 'material'
@@ -47,15 +51,7 @@ theme:
     - navigation.footer
     - navigation.top
 
-plugins:
-  - search:
-      lang: 
-        - en
-        - ja
-      separator: '[\s　、。，．・\~～\|&!?！？はがのをにへとでやかもる「」『』ー\-]+|(?<=[\u4E00-\u9FFF])(?=[\u3040-\u309F])|(?<=[\u30A0-\u30FF])(?=[\u4E00-\u9FFF])'
-      # 前半: セパレータっぽい文字
-      # (?<=[\u4E00-\u9FFF])(?=[\u3040-\u309F]) : 漢字とひらがなの境界
-      # (?<=[\u30A0-\u30FF])(?=[\u4E00-\u9FFF]) : カタカナと漢字の境界
+plugins: []
 
 markdown_extensions:
   - tables

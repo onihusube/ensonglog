@@ -2,7 +2,7 @@ name: deploy mkdocs
 on:
   push:
     branches:
-      - master 
+      - master
 permissions:
   contents: write
 jobs:
@@ -14,9 +14,9 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
-          python-version: 3.x
+          python-version: '3.x'
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
       - uses: actions/cache@v4
         with:
@@ -24,5 +24,21 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+      - run: pip install mkdocs-material
+      # 1. MkDocsビルド（site/ ディレクトリに出力）
+      - run: mkdocs build
+      # 2. CJK個別文字をHTMLに注入 (日本語検索精度の改善)
+      #    各ページの<main>内テキストからCJK文字を抽出し、
+      #    個別にインデックス登録されるよう隠し要素として注入する。
+      #    これにより processTerm の1文字分割が常にマッチするようになる。
+      - name: Inject CJK characters for search
+        run: python .github/workflows/scripts/inject_pagefind_chars.py site
+      # 3. Pagefindでサイト内検索インデックスを生成
+      #    --force-language ja : 全ページを日本語として処理
+      #    --root-selector main : <main>要素内のみをインデックス対象にする
+      - name: Create Pagefind search index
+        run: npx pagefind --site site --glob "**/*.html" --force-language ja --root-selector "main"
+      - name: copy gsc ownership file
+        run: cp google290e6b23c164f08d.html site/
+      # 4. gh-pagesブランチにデプロイ（ghp-importを直接使用）
+      - run: ghp-import site --force --no-jekyll --push --branch gh-pages
