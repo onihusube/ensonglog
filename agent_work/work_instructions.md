@@ -53,6 +53,8 @@ https://bilibili.com/video/BV1CQZxBdE62/
 悠悠球工作室
 ```
 ```
+リビドー・アバンちゅ～る (ensemble SWEET) (2026-06-26)
+
 【リビドー・アバンちゅ～る】
 
 ＼＼　ED楽曲を少しだけ公開！　／／
@@ -106,7 +108,7 @@ Step1で抽出した楽曲情報から、次の表を可能な限り埋めてく
 | 09<!--/04--> | いちごクライシス! | けむり工房 | 四畳半の天使 | 主題歌 | 温玉ことこと | 江尻拓斗 | 江尻拓斗 | ﾖｯｼｬ!!E.J.R | 主題歌入り音楽CD [🎵🔗](https://sndo.ffm.to/dxw4eqa) | Ensemble：スタジオつらら, Producer：ﾖｯｼｬ!!E.J.R |  |
 | 02<!--/05--> | カルタグラ (Nintendo Switch) | PROTOTYPE | 恋獄 | OP | 霜月はるか | 六浦館 | MANYO | MANYO |  | コーラス：霜月はるか／真理絵 | [:fontawesome-brands-youtube:](https://www.youtube.com/watch?v=6mLcuPYDlLI) |
 | 02<!--/14--> | 第零封情书 | 悠悠球工作室 | 帧帧 | 主題歌 | 樱野悠 | 杏子haki | 金色海洋 |  |  |  | [B站](https://bilibili.com/video/BV1CQZxBdE62/) |
-|  | リビドー・アバンちゅ～る |  | Overflowing with Love for you. | ED | 柊木環希 | ハラユカ。 from STRIKERS | 西坂恭平 from STRIKERS | 西坂恭平 from STRIKERS |  | Guitar/Bass/Piano：西坂恭平 from STRIKERS, Drums：KAMIYAMA, Drums Recording：SOUND STUDIO 玉響 | [:fontawesome-brands-twitter:](https://x.com/ensemble_sweet/status/2047586339340656656) |
+| 06<!--/26--> | リビドー・アバンちゅ～る | ensemble SWEET | Overflowing with Love for you. | ED | 柊木環希 | ハラユカ。 from STRIKERS | 西坂恭平 from STRIKERS | 西坂恭平 from STRIKERS |  | Guitar/Bass/Piano：西坂恭平 from STRIKERS, Drums：KAMIYAMA, Drums Recording：SOUND STUDIO 玉響 | [:fontawesome-brands-twitter:](https://x.com/ensemble_sweet/status/2047586339340656656) |
 ```
 
 `../docs/2025/楽曲.md`にはさらに出力例があります。
