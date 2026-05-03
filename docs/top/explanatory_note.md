@@ -8,6 +8,7 @@
 - :rabbit: : [chobit.cc](https://chobit.cc/)へのリンク
 - :octicons-video-16: : [emdb](https://emdb.info/)へのリンク
 - :fontawesome-brands-twitter: : Twitter(X)へのリンク
+- :material-steam: : [Steam](https://store.steampowered.com/)ページへのリンク
 - HP: ゲームの公式サイト内へのリンク
 - B站: Bilibiliへのリンク
 
