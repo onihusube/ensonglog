@@ -32,5 +32,6 @@
 - ブランド : WendyBell
 - 購入先
     - [DLsite](https://www.dlsite.com/pro/work/=/product_id/VJ01006343.html)
+      - 形式 : mp3(320kbps/44.1kHz)
 - メディア : DL
 - 発売日 : 2026/05/22
