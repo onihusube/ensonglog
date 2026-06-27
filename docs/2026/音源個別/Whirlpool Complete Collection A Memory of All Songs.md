@@ -23,8 +23,8 @@
 | 01 | holy night magic | nao(fripSide) | メリ☆クリ ～10年ぶりのホワイトクリスマス～ | OP | 八木沼悟志, 山下慎一狼 | 八木沼悟志, 山田重利 | 八木沼悟志, 山田重利 | | 2008 |
 | 02 | a little christmas time | nao(fripSide) | メリ☆クリ ～10年ぶりのホワイトクリスマス～ | ED | Tatsuo Kimura, 小峰尚哉 | Tatsuo Kimura | 八木沼悟志, 山田重利, 岡本拓三 | | 2008 |
 | 03 | STAR LEGEND | 榊原ゆい | 77 ～And, two stars meet again～ | OP | Bee' | 上松範康 | 中山真斗 | | 2009 |
-| 04 | ふたりで… | 佐藤ひろ美 | 77 ～And, two stars meet again～ | ED1 | 佐藤ひろ美(佐藤裕美) | 藤間仁 | 藤間仁 | | 2009 |
-| 05 | 星の奇跡 | μ | 77 ～And, two stars meet again～ | ED2 | 佐藤ひろ美(佐藤裕美) | 藤田淳平 | 藤田淳平 | | 2009 |
+| 04 | ふたりで… | 佐藤ひろ美 | 77 ～And, two stars meet again～ | ED1 | 佐藤ひろ美 | 藤間仁 | 藤間仁 | | 2009 |
+| 05 | 星の奇跡 | μ | 77 ～And, two stars meet again～ | ED2 | 佐藤ひろ美 | 藤田淳平 | 藤田淳平 | | 2009 |
 | 06 | 恋する神通力（ちから） | NANA | ねこ☆こい！ ～猫神さまとネコミミのたたり～ | OP | rino | 大久保薫 | 大久保薫 | | 2010 |
 | 07 | 幸せノ方程式 | 橋本みゆき | ねこ☆こい！ ～猫神さまとネコミミのたたり～ | ED | jina | 田辺トシノ | 田辺トシノ | | 2010 |
 | 08 | Believe forever | 佐藤ひろ美 | 涼風のメルト -Where wishes are drawn to each other- | OP | Bee' | 上松範康 | 中山真斗 | | 2010 |
