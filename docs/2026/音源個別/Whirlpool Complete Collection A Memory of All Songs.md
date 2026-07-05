@@ -14,7 +14,7 @@
 | 06 | アイノチカラ | yozuca* | MagusTale ～世界樹と恋する魔法使い～ | ED1 | yozuca* | 田辺トシノ | 田辺トシノ | サウンドディレクション：虻川治 | 2007 |
 | 07 | ありがとう | YURIA | MagusTale ～世界樹と恋する魔法使い～ | ED2 | YURIA | 景家淳 | 景家淳 | サウンドディレクション：虻川治 | 2007 |
 | 08 | glitter | 橋本みゆき | MagusTale Infinity | OP | 橋本みゆき | 鈴木マサキ | 鈴木マサキ | サウンドディレクション：虻川治 | 2008 |
-| 09 | to the sky[Brick Wall Remix］ | 橋本みゆき | | アレンジ楽曲 | 橋本みゆき | 鈴木マサキ | 鈴木マサキ | Whirlpool ボーカルソング集 Vol.1 「brilliant」収録 | 2008 |
+| 09 | to the sky[Brick Wall Remix] | 橋本みゆき | | アレンジ楽曲 | 橋本みゆき | 鈴木マサキ | 鈴木マサキ | Whirlpool ボーカルソング集 Vol.1 「brilliant」収録 | 2008 |
 
 ### DISC2
 
