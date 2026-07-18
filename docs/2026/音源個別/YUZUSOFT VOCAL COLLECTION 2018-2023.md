@@ -33,6 +33,9 @@
 | 08 | 幸せの魔法 | 月城花梨 | 天使☆騒々 RE-BOOT! | 高楯オリエ ED | 中山♡マミ | Famishin | 井ノ原智 |  | 2023 |
 | 09 | wish | 百里風実花 (CV : 明羽杏子) | 天使☆騒々 RE-BOOT! | 百里実花 ED | ange | Famishin | Luca |  | 2023 |
 
+### 共通クレジット
+
+- Sound Produced by Angel Note
 
 ## その他
 

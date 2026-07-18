@@ -37,7 +37,7 @@
 | 31 | パステル | 月乃 | ほたるED曲 | | 東条サダヲ | 東条サダヲ | 東条サダヲ | E.Guitar: Nemoka.T, All Other Instruments: 東条サダヲ, Mixed by: 東条サダヲ |
 | 32 | Puddle Blue | 八花 | 水萌ED曲 | | 東条サダヲ | 東条サダヲ | 東条サダヲ | E.Guitar: Nemoka.T, All Other Instruments: 東条サダヲ, Mixed by: 東条サダヲ |
 
-#### 共通クレジット
+### 共通クレジット
 
 - Mastered by: 神灼爺
 
