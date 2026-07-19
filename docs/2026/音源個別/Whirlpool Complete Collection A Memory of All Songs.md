@@ -118,5 +118,8 @@
 ## その他
 
 - ブランド : Whirlpool
+- 視聴
+    - [Melty Air](https://www.youtube.com/watch?v=1Z9DObIAQ_Q)
+    - [days go on](https://www.youtube.com/watch?v=Gzgt4EbXCdg)
 - メディア : CD/DL
 - 発売日 : 2026/06/26
