@@ -25,3 +25,20 @@
 当サイトでは、収集した情報を第三者と共有することはありません。また、Google Analyticsによって収集された情報は、Google社のプライバシーポリシーに従って管理されます。Google社によるデータの扱いについては次のサイトを確認してください。
 
 https://policies.google.com/technologies/partner-sites?hl=ja
+
+## 📚 C108 関連音源リスト 💿
+
+一時的にここに配置。
+
+### 2日目（08/16 日曜日）
+
+|ホール|配置|サークル名|商品名|その他|
+|---|---|---|---|---|
+| 東3 | ア 65ab | サークルしらたまこ | とける風花とシロうさぎ オリジナルサウンドトラック | [BOOTH](https://shiratamaco.booth.pm/items/8538159) |
+
+### 企業
+
+|ホール|配置|ブース名|商品名|その他|
+|---|---|---|---|---|
+| 西3 | 1125 | ぱれっと with CLEARRAVE | as:9-nine- ARTEISIA ORIGINAL SOUND TRACK |  |
+| 西3 | 1131 | ケロQ&枕 | サクラノ詩 Re:Graphic ヴォーカルCD |  |
