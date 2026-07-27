@@ -83,5 +83,6 @@
 ## その他
 
 - 作品/ブランド : anemoi / Key
+- 試聴 : [Youtube](https://www.youtube.com/watch?v=gOvZ-Sj4NIs)
 - メディア : CD
 - 発売日 : 2026/07/29
