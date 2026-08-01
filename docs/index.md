@@ -42,3 +42,6 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 |---|---|---|---|---|
 | 西3 | 1125 | ぱれっと with CLEARRAVE | as:9-nine- ARTEISIA ORIGINAL SOUND TRACK |  |
 | 西3 | 1131 | ケロQ&枕 | サクラノ詩 Re:Graphic ヴォーカルCD |  |
+| 西4 | 1411 | アクアプラス | うたわれるもの 白への道標 オリジナルサウンドトラック |  |
+| 西4 | 1411 | アクアプラス | モノクロームメビウス 刻ノ代贖 オリジナルサウンドトラック |  |
+| 西4 | 1411 | アクアプラス | WHITE ALBUM2 original soundtrack SPECIAL BOX -once again- |  |
