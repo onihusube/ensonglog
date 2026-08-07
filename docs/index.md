@@ -35,6 +35,7 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 |ホール|配置|サークル名|商品名|その他|
 |---|---|---|---|---|
 | 東3 | ア 65ab | サークルしらたまこ | とける風花とシロうさぎ オリジナルサウンドトラック | [BOOTH](https://shiratamaco.booth.pm/items/8538159) |
+| 東7 | s 24ab | とわソフト | ユリアリス オリジナルサウンドトラック | 豪華版特典 |
 
 ### 企業
 
