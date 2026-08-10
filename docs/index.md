@@ -35,7 +35,8 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 |ホール|配置|サークル名|商品名|その他|
 |---|---|---|---|---|
 | 東3 | ア 65ab | サークルしらたまこ | とける風花とシロうさぎ オリジナルサウンドトラック | [BOOTH](https://shiratamaco.booth.pm/items/8538159) |
-| 東7 | s 24ab | とわソフト | ユリアリス オリジナルサウンドトラック | 豪華版特典 |
+| 東7 | S 24ab | とわソフト | ユリアリス オリジナルサウンドトラック | 豪華版特典 |
+| 東7 | S 36ab | GALEX SOFT | GALEX Song Works vol.1 | [BOOTH](https://galexsoft.booth.pm/items/8668782) |
 
 ### 企業
 
@@ -43,6 +44,8 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 |---|---|---|---|---|
 | 西3 | 1125 | ぱれっと with CLEARRAVE | as:9-nine- ARTEISIA ORIGINAL SOUND TRACK |  |
 | 西3 | 1131 | ケロQ&枕 | サクラノ詩 Re:Graphic ヴォーカルCD |  |
+| 西3 | 1223 | Whirlpoolを送る会 Byオルトロス | Whirlpool Complete Collection「A Memory of All Songs」 |  |
 | 西4 | 1411 | アクアプラス | うたわれるもの 白への道標 オリジナルサウンドトラック |  |
 | 西4 | 1411 | アクアプラス | モノクロームメビウス 刻ノ代贖 オリジナルサウンドトラック |  |
+| 西4 | 1411 | アクアプラス | WHITE ALBUM2 Original Soundtrack ～anniversary chapter～ |  |
 | 西4 | 1411 | アクアプラス | WHITE ALBUM2 original soundtrack SPECIAL BOX -once again- |  |
