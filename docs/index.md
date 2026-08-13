@@ -36,7 +36,14 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 |---|---|---|---|---|
 | 東3 | ア 65ab | サークルしらたまこ | とける風花とシロうさぎ オリジナルサウンドトラック | [BOOTH](https://shiratamaco.booth.pm/items/8538159) |
 | 東7 | S 24ab | とわソフト | ユリアリス オリジナルサウンドトラック | 豪華版特典 |
+| 東7 | S 32b | MA2 | 「Control」op「春色の鼓動／月影のダチュラ」CD「AnemonE」 | C106先行 [BOOTH](https://masquaregames.booth.pm/items/7166132) |
+| 東7 | S 34a | ひまわり組 | CRACK LACK GOODLUCK AFTER STORY オリジナルサウンドトラック（WAVデータ） | ゲームディスク同梱 サントラ単体販売予定 |
 | 東7 | S 36ab | GALEX SOFT | GALEX Song Works vol.1 | [BOOTH](https://galexsoft.booth.pm/items/8668782) |
+| 東7 | S 43a | LYCORIS | 嘘から始まる恋の夏 オリジナルサウンドトラック | 既刊 [BOOTH](https://booth.pm/ja/items/5210748) |
+| 東7 | T 14ab | MUGnet | 梵天世界の壊し方 Original Soundtrack | C107先行 [BOOTH](https://mugnet.booth.pm/items/7823321) |
+| 東7 | T 20a | 文芸部 | そらのひらけたばしょ -CHORD:OOC- サウンドトラックデータ | ゲームディスク同梱 |
+| 東7 | T 21b | Links8 from Legame | SmileRemaster SoundTrack |  |
+| 東7 | T 32a | PLASTIC LABEL | いじめっこ虐殺ゲーム3,4,5主題歌アレンジCD | 既刊 |
 
 ### 企業
 
