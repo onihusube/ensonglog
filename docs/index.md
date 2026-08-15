@@ -40,10 +40,15 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 | 東7 | S 34a | ひまわり組 | CRACK LACK GOODLUCK AFTER STORY オリジナルサウンドトラック（WAVデータ） | ゲームディスク同梱 サントラ単体販売予定 |
 | 東7 | S 36ab | GALEX SOFT | GALEX Song Works vol.1 | [BOOTH](https://galexsoft.booth.pm/items/8668782) |
 | 東7 | S 43a | LYCORIS | 嘘から始まる恋の夏 オリジナルサウンドトラック | 既刊 [BOOTH](https://booth.pm/ja/items/5210748) |
+| 東7 | T 02a | 幻踏廻廊 | 映像起憶　眩く光る願い 楽曲データ | ゲームディスク同梱 </br> 旧作（同様に楽曲データ付属）もいくつか有 |
+| 東7 | T 13ab | パラドラスト | 眠れヘリオトロープ サントラディスク | 既刊 |
 | 東7 | T 14ab | MUGnet | 梵天世界の壊し方 Original Soundtrack | C107先行 [BOOTH](https://mugnet.booth.pm/items/7823321) |
+| 東7 | T 15a | 凸凹ぱわーず | アオハルインストール 主題歌集 | ゲームディスク同梱 |
 | 東7 | T 20a | 文芸部 | そらのひらけたばしょ -CHORD:OOC- サウンドトラックデータ | ゲームディスク同梱 |
 | 東7 | T 21b | Links8 from Legame | SmileRemaster SoundTrack |  |
+| 東7 | T 28b | かにわーるど | 嘘より綺麗なセカイOP『生まれてこなかったかもしれない命へ』シングルCD | 西2う-40a「ISLES」でも頒布 |
 | 東7 | T 32a | PLASTIC LABEL | いじめっこ虐殺ゲーム3,4,5主題歌アレンジCD | 既刊 |
+| 西2 | う-40a | ISLES | 嘘より綺麗なセカイ テーマソング『生まれてこなかったかもしれない命へ』シングルCD | 東7 T 28b「かにわーるど」でも頒布 |
 
 ### 企業
 
