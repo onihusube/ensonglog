@@ -35,6 +35,7 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 |ホール|配置|サークル名|商品名|その他|
 |---|---|---|---|---|
 | 東3 | ア 65ab | サークルしらたまこ | とける風花とシロうさぎ オリジナルサウンドトラック | [BOOTH](https://shiratamaco.booth.pm/items/8538159) |
+| 東7 | A 46a | 十二支蝶 | 脱走兵と機械人形 サウンドトラック | C107先行 |
 | 東7 | S 24ab | とわソフト | ユリアリス オリジナルサウンドトラック | 豪華版特典 |
 | 東7 | S 32b | MA2 | 「Control」op「春色の鼓動／月影のダチュラ」CD「AnemonE」 | C106先行 [BOOTH](https://masquaregames.booth.pm/items/7166132) |
 | 東7 | S 34a | ひまわり組 | CRACK LACK GOODLUCK AFTER STORY オリジナルサウンドトラック（WAVデータ） | ゲームディスク同梱 サントラ単体販売予定 |
