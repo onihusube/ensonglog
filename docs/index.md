@@ -46,7 +46,7 @@ https://policies.google.com/technologies/partner-sites?hl=ja
 | 東7 | T 15a | 凸凹ぱわーず | アオハルインストール 主題歌集 | ゲームディスク同梱 |
 | 東7 | T 20a | 文芸部 | そらのひらけたばしょ -CHORD:OOC- サウンドトラックデータ | ゲームディスク同梱 |
 | 東7 | T 21b | Links8 from Legame | SmileRemaster SoundTrack |  |
-| 東7 | T 28b | かにわーるど | 嘘より綺麗なセカイOP『生まれてこなかったかもしれない命へ』シングルCD | 西2う-40a「ISLES」でも頒布 |
+| 東7 | T 28b | かにわーるど | 嘘より綺麗なセカイ テーマソング『生まれてこなかったかもしれない命へ』シングルCD | 西2う-40a「ISLES」でも頒布 |
 | 東7 | T 32a | PLASTIC LABEL | いじめっこ虐殺ゲーム3,4,5主題歌アレンジCD | 既刊 |
 | 西2 | う-40a | ISLES | 嘘より綺麗なセカイ テーマソング『生まれてこなかったかもしれない命へ』シングルCD | 東7 T 28b「かにわーるど」でも頒布 |
 
