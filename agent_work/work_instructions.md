@@ -111,6 +111,8 @@ Step1で抽出した楽曲情報から、次の表を可能な限り埋めてく
 | 06<!--/26--> | リビドー・アバンちゅ～る | ensemble SWEET | Overflowing with Love for you. | ED | 柊木環希 | ハラユカ。 from STRIKERS | 西坂恭平 from STRIKERS | 西坂恭平 from STRIKERS |  | Guitar/Bass/Piano：西坂恭平 from STRIKERS, Drums：KAMIYAMA, Drums Recording：SOUND STUDIO 玉響 | [:fontawesome-brands-twitter:](https://x.com/ensemble_sweet/status/2047586339340656656) |
 ```
 
+これはあくまで一例です。この例に過度にとらわれず、入力データに合わせて柔軟に対応してください。
+
 `../docs/2025/楽曲.md`にはさらに出力例があります。
 
 ## Step3 表を`temp_work.md`に書き出す
@@ -120,6 +122,13 @@ Step1で抽出した楽曲情報から、次の表を可能な限り埋めてく
 ## Step4 作業結果を確認する
 
 - [ ] `music_info.md`にはデータがあるのに`temp_work.md`に書き出した表には含まれていないような楽曲情報が無いこと
+    - 1ブロックに1曲分の情報しかないとは限りません、よくチェックしましょう
 - [ ] 表の各行について、列要素のずれがないこと
     - 特に、末尾の"音源、 その他、 試聴"の部分についてずれていないか注意する
     - **ずれていることが非常に多い**
+
+## Step5 サブエージェントによるダブルチェック
+
+サブエージェントを起動して、`../docs/2026/楽曲.md`の既存データと`temp_work.md`の抽出結果を比較して`temp_work.md`側のエラーの発見と修正を行ってください。
+
+この時もし曲情報の重複を発見した場合は報告してください。
